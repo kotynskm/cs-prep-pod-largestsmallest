@@ -4,6 +4,6 @@ The function largestAndSmallest should take one parameter, an array, and return 
 
 EX:
 
-[1, 2, 3, 4, 5] --> [1, 5]
-[90, 30, 44, 66, 10] --> [10, 90]
+[1, 2, 3, 4, 5] --> [1, 5] 
+[90, 30, 44, 66, 10] --> [10, 90] 
 [16, -70, 122] --> [-70, 122]
